@@ -1,6 +1,6 @@
 {
-  "version": "v8.05.51 (patches: 5.18.0)",
-  "versionCode": 87,
-  "zipUrl": "https://github.com/NoName-exe/revanced/releases/download/87/youtube-music-revanced-magisk-v8.05.51-arm-v7a.zip",
+  "version": "v8.05.51 (patches: 5.19.1)",
+  "versionCode": 88,
+  "zipUrl": "https://github.com/NoName-exe/revanced/releases/download/88/youtube-music-revanced-magisk-v8.05.51-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/NoName-exe/revanced/update/build.md"
 }
